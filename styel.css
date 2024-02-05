@@ -1,0 +1,23 @@
+.page1 {
+    height: 100vh;
+    background-color: antiquewhite;
+}
+
+.page1>h1 {
+    text-align: center;
+    font-size: 3vw;
+}
+
+.page1>.box {
+    width: 100vw;
+}
+
+.sdt-img {
+    width: 4vw;
+    height: 15vh;
+}
+
+.page1>.box>div {
+    display: flex;
+    justify-content: space-between;
+}
